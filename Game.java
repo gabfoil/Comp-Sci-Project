@@ -1,5 +1,11 @@
+import Interfascia;
+
 public class Game {
-    public void main(String[] args) {
-        
+    public static void main(String[] args) {
+        //setup();
     }
+    void setup() {
+        size(400, 400);
+        
+      }
 }
